@@ -7,7 +7,7 @@
 An interactive deep learning web application that predicts the likelihood of a customer leaving a bank. This project utilizes an **Artificial Neural Network (ANN)** and is deployed via **Streamlit**.
 
 ## 🚀 Live Demo
-[Insert your Streamlit Cloud Link Here]
+(https://machine-learning-ann-classification-churn.streamlit.app)
 
 ## 🧐 Overview
 Customer churn is a critical metric for businesses. This project provides a data-driven approach to identify "at-risk" customers by analyzing demographic and financial data such as credit score, geography, gender, age, tenure, balance, and more.
