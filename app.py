@@ -95,4 +95,5 @@ with col_res2:
 
 # --- Footer ---
 st.markdown("---")
-st.markdown("<h4 style='text-align: center;'>Created by Priyam Sachan</h4>", unsafe_user_html=True)
+st.markdown("<h4 style='text-align: center;'>Created by Priyam Sachan</h4>", unsafe_allow_html=True)
+
